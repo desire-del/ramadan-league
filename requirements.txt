@@ -1,0 +1,13 @@
+pandas
+ipykernel
+notebook
+matplotlib
+seaborn
+scikit-learn
+catboost
+xgboost
+lightgbm
+nltk
+spacy
+transformers
+torch
